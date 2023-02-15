@@ -10,13 +10,11 @@ public class Client {
     }
 
     public String returnTere() {
-        return ("Tere");
+        return "Tere";
     }
 
     public int difference(int one, int two) {
         int three = one - two;
         return three;
-
-
     }
 }
